@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* My name is Gleb Shabanov
+* I am interested in AI, Python and AlgoTrading
+
 <!--
 **glebshbv/glebshbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
