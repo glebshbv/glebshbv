@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-* My name is Gleb Shabanov
-* I am interested in AI, Python and AlgoTrading
+* 😄 My name is Gleb Shabanov
+* 🔭 I’m a Ruby on Rails and Python Backend developer
+* 💬 I founded 2 startups, 1 was successful
+* 🌱 I’m currently exploring my next opportunities
+* 📫 Reach me at me@glebshabanov.com
 
 <!--
 **glebshbv/glebshbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
