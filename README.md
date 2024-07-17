@@ -6,6 +6,8 @@
 * 🌱 I’m currently exploring my next opportunities
 * 📫 Reach me at me@glebshabanov.com
 
+## Portfolio 💼
+* Blackjack Game: https://github.com/glebshbv/ror-course_bj
 <!--
 **glebshbv/glebshbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
