@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 * 😄 My name is Gleb Shabanov
-* 🔭 I’m a Ruby on Rails and Python Backend developer
+* 🔭 I’m a Ruby on Rails and Python 100x Engineer
 * 💬 I founded 2 startups, 1 was successful
-* 🌱 I’m currently exploring my next opportunities
-* 📫 Reach me at me@glebshabanov.com
+* 🌱 I’m a co-founder % CTO at GoodTake.co
+* 🧑‍💻 I'm also a co-founder at gentleinvoice.com
+* 📫 Reach me at gleb@goodtake.co
 
 ## Portfolio 💼
 * Blackjack Game: https://github.com/glebshbv/ror-course_bj
+* Telegram Voice Bot: https://github.com/glebshbv/oneonone
 <!--
 **glebshbv/glebshbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
